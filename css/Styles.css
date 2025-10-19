@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+h1 {
+		color: #004255;
+		text-align: center;
+		font-size: 45px;
+		font-family:'Raleway';
+}
+h2 {
+	color: #5ebbc3;
+	font-family: "Georgia",monospace;
+	font-size: 27px;
+}
+u {
+	color:#17365d;
+	font-family: "Monaco;",monospace;
+		font-size: 21px;
+}
+p {
+	color:black;
+	font-family: "Arial;"Sans-serif;
+		font-size: 18px;
+}
+li {
+	color:black;
+	font-family: "Arial;"Sans-serif;
+		font-size: 19px;
+}
+td {
+	color:black;
+	font-family: "Arial;"Sans-serif;
+		font-size: 17px;
+	}
+table {
+	text-align: center;
+	border-color:rgba(1,1,1,0);
+}
